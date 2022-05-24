@@ -4,6 +4,9 @@ A sample website created with React. It is a blog that displays articles concern
 
 This project is the result of completing the [Create a Next.js App](https://nextjs.org/learn/basics/create-nextjs-app) course on the Nextjs site. It concerns frontend development concepts and the basics of Nextjs.
 
+Currently it is deployed on Vercel:
+https://nextjs-blog-git-index-g-esco101.vercel.app/
+
 ## Technology
 
 - Node.js version 18
