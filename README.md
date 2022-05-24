@@ -2,7 +2,7 @@
 
 A sample website created with React. It is a blog that displays articles concerning prerendering in Nextjs.
 
-This project is the result of completing the [Create a Next.js App](https://nextjs.org/learn/basics/create-nextjs-app) course on the Nextjs site. It concerns frontend development concepts, react, the basics of Nextjs, and the basics of Develop, Preview, Ship in Vercel.
+This project is the result of completing the [Create a Next.js App](https://nextjs.org/learn/basics/create-nextjs-app) course on the Nextjs site. It concerns frontend development concepts, react, the basics of Nextjs, and the basics of the Develop, Preview, Ship workflow in Vercel.
 
 Currently it is deployed on Vercel:
 https://nextjs-blog-git-index-g-esco101.vercel.app/
