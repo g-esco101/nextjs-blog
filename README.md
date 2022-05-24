@@ -1,8 +1,8 @@
 # Nextjs Blog
 
-A react application - a blog that displays articles concerning prerendering in Nextjs.
+A sample website created with React. It is a blog that displays articles concerning prerendering in Nextjs.
 
-This app is the result of completing the [Create a Next.js App](https://nextjs.org/learn/basics/create-nextjs-app) course on the Nextjs site. It concerns frontend development concepts and the basics of Nextjs.
+This project is the result of completing the [Create a Next.js App](https://nextjs.org/learn/basics/create-nextjs-app) course on the Nextjs site. It concerns frontend development concepts and the basics of Nextjs.
 
 ## Technology
 
