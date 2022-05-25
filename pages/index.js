@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
         <p>Physicist, gone writer, gone software engineer.</p>
         <p>
           This sample site is the result of completing the <a href="https://nextjs.org/learn/basics/create-nextjs-app">Create a Next.js App tutorial</a>.
-          It concerns frontend development concepts and the basics of Nextjs.
+          It concerns frontend development concepts, react, the basics of Nextjs, and the basics of the Develop, Preview, Ship workflow in Vercel.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
